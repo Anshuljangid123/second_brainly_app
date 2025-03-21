@@ -1,0 +1,21 @@
+{
+  "name": "weak15_second_brain_app",
+  "version": "1.0.0",
+  "main": "scema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/express": "^5.0.1",
+    "@types/jsonwebtoken": "^9.0.9",
+    "express": "^4.21.2",
+    "git": "^0.1.5",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.12.1",
+    "typescript": "^5.8.2"
+  }
+}
