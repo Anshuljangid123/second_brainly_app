@@ -1,7 +1,7 @@
 
 import {model , Schema} from "mongoose";
 import mongoose from "mongoose";
-import { JWT_PASSWROD } from "./config";
+import { JWT_PASSWROD } from "./config.ts";
 mongoose.connect("mongodb+srv://anshuljan2003:l0miV1lDK9OpBmOS@cluster0.jwz66.mongodb.net/brainly")
 
 const UserSchema = new Schema ({
